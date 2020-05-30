@@ -40,6 +40,10 @@ The below should be the latest version possible of Adobe CC 2018 since CCMaker d
 
 \*32-bit/x86 version
 
+## Common Issues
+
+- You may run into the problem of "missing MSVCR110.dll". All the fix is documented [here](https://windowsreport.com/fix-msvcr110-dll/) but it's best to just download and install: [Visual C++ Redistributable for Visual Studio 2012 Update 4](https://www.microsoft.com/en-sa/download/details.aspx?id=30679)
+
 ## For Mac Users
 It's recommended to use [Adobe Zii](https://ziipatcher.com/) but it looks like there is a [superior script](https://www.reddit.com/r/AdobeZii/comments/fmv3sm/download_cc_2020_old_versions_directly_from_adobe/) to use on your terminal:
 
