@@ -37,7 +37,8 @@ The below should be the latest version possible of Adobe CC 2018 since CCMaker d
 | Photoshop | 19.1.9 |
 | Prelude | 7.1.1 |
 | Premiere Pro | 12.1.2 |
-* 32-bit/x86 version
+
+\*32-bit/x86 version
 
 ## For Mac Users
 It's recommended to use [Adobe Zii](https://ziipatcher.com/) but it looks like there is a [superior script](https://www.reddit.com/r/AdobeZii/comments/fmv3sm/download_cc_2020_old_versions_directly_from_adobe/) to use on your terminal:
